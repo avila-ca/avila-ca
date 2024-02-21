@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Albert Vilà</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🌱 I’m currently learning **Node Js course and CFGS DAW**
+- 🌱 I’m currently doing **High studies about Web app development(CFGS DAW)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/avila-ca](https://github.com/avila-ca)
 
-- 💬 Ask me about **Html, Css, JavaScript**
+- 💬 Ask me about **Html, Css, JavaScript, NodeJs, Typescript, React**
 
 - 📫 How to reach me **avilacalaf@gmail.com**
 

@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **avilacalaf@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vila-albert/](https://www.linkedin.com/in/vila-albert/)
+- 📄 Know about my experiences <a href="https://github.com/avila-ca/Me.io/blob/main/CVAlbertVila.pdf">Resume</a>
 
 - ⚡ Fun fact **I think I cook the best cheese omelet**
 </div>
